@@ -1,2 +1,2 @@
-github "escolarea/SwiftBase58"
-github "escolarea/VarInt"
+github "escolarea/SwiftBase58" "master"
+github "escolarea/VarInt" "master"
